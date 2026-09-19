@@ -13,12 +13,13 @@
    ============================================================ */
 
 export const firebaseConfig = {
-  apiKey: "COLE_AQUI",
-  authDomain: "COLE_AQUI",
-  projectId: "COLE_AQUI",
-  storageBucket: "COLE_AQUI",
-  messagingSenderId: "COLE_AQUI",
-  appId: "COLE_AQUI",
+  apiKey: "AIzaSyDdzYy2hSJVblmYfoG8rJVWR4yeb9ydzvY",
+  authDomain: "amira-closet.firebaseapp.com",
+  projectId: "amira-closet",
+  storageBucket: "amira-closet.firebasestorage.app",
+  messagingSenderId: "1038915264966",
+  appId: "1:1038915264966:web:1f22a5a49b339445cf52c7",
+  measurementId: "G-KRW8QLK0YX"
 };
 
 /* Versão do SDK do Firebase carregada via CDN. */
